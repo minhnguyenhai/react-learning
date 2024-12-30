@@ -6,4 +6,4 @@
 Most projects ideas come from the Udemy course:  [React - The Complete Guide 2024 (incl. Next.js, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 ## 📚 Content 
-- [Section 1:](https://github.com/haiminhnguyenn/react-learning/tree/main/section01) Getting Started
+- [Section 1:](https://github.com/minhnguyenhai/react-learning/tree/main/section01) Getting Started
